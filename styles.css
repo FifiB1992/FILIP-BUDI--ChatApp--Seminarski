@@ -5,7 +5,6 @@
     font-family: 'Homer Simpson Revised', sans-serif;
 }
 
-
 body {
     background: url(./images/OyMq4UT.jpg), center, no-repeat, #fff;
     height: 100%;
@@ -91,7 +90,6 @@ h1 {
     border: 1px solid #ddd;
     border-radius: 10px;
     left: 20px;
-
     background-color: #D1B271;
     font-size: 20px;
 }
@@ -112,7 +110,6 @@ h1 {
     border: none;
     box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
     background-color: #fed90f;
-
 }
 
 .delete-button {
